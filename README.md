@@ -1,2 +1,22 @@
 # Accenture---Social-Buzz-Data-analytics-and-Visualization-Virtual-Experience-Program-
-Completed a simulation advising a hypothetical social media client as a Data Analyst. Cleaned, modeled, and analyzed 7 datasets to uncover content trends, and prepared a PowerPoint deck and video presentation to communicate key insights for strategic decisions.
+Project Overview: Analyzing Popular Content on Social Buzz
+
+1. About Social Buzz
+Social Buzz is a content-focused social media platform founded in 2008 by two former engineers from a large media conglomerate. They built a unique system where users are anonymous and have over 100 ways to react to content instead of just liking, disliking or commenting. Currently, Social Buzz has over 500 million monthly active users and is expanding rapidly.
+
+2. Project Objectives
+📌 Analyze content categories, identify the 5 most popular content types by total engagement.
+
+3. Main tasks
+🔹 Extract and merge sample data using SQL
+🔹 Analyze data and visualize results
+🔹 Identify the content types with the highest engagement
+
+4. Tools used:
+🔹SQL Server
+🔹Power BI
+🔹Powerpoint
+
+5. Expected results
+✅ Provide reports on the 5 most popular content types on the Social Buzz platform.
+✅ Provide recommendations to help Social Buzz optimize content display according to engagement levels.
