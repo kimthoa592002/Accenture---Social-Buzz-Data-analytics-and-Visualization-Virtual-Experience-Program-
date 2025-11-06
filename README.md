@@ -1,4 +1,4 @@
-# Accenture---Social-Buzz-Data-analytics-and-Visualization-Virtual-Experience-Program-
+# README
 ## 📘 Project Overview
 **Analyzing Popular Content on Social Buzz**
 
