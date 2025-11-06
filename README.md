@@ -5,18 +5,18 @@ Project Overview: Analyzing Popular Content on Social Buzz
 Social Buzz is a content-focused social media platform founded in 2008 by two former engineers from a large media conglomerate. They built a unique system where users are anonymous and have over 100 ways to react to content instead of just liking, disliking or commenting. Currently, Social Buzz has over 500 million monthly active users and is expanding rapidly.
 
 2. Project Objectives
-📌 Analyze content categories, identify the 5 most popular content types by total engagement.
+   📌 Analyze content categories, identify the 5 most popular content types by total engagement.
 
 3. Main tasks
-🔹 Extract and merge sample data using SQL
-🔹 Analyze data and visualize results
-🔹 Identify the content types with the highest engagement
+   🔹 Extract and merge sample data using SQL
+   🔹 Analyze data and visualize results
+   🔹 Identify the content types with the highest engagement
 
 4. Tools used:
-🔹SQL Server
-🔹Power BI
-🔹Powerpoint
+   🔹SQL Server
+   🔹Power BI
+   🔹Powerpoint
 
 5. Expected results
-✅ Provide reports on the 5 most popular content types on the Social Buzz platform.
-✅ Provide recommendations to help Social Buzz optimize content display according to engagement levels.
+   ✅ Provide reports on the 5 most popular content types on the Social Buzz platform.
+   ✅ Provide recommendations to help Social Buzz optimize content display according to engagement levels.
